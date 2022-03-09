@@ -17,6 +17,7 @@
 	<table>
 		<tr>
 			<th> ID </th>
+			
 			<th> Name </th>
 			<th> DOB </th>
 			<th>Address</th>
